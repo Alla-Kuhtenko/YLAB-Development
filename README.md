@@ -15,7 +15,7 @@
 
 <tr>
     <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Learning"> ДЗ 1 </a></td>
-  <td> YLAB Development </td>
+  <td> YLAB-Learning </td>
   <th> Процесс разработки ИС и ПО </th>
   <td> ... </td>
   <td> ... </td>
