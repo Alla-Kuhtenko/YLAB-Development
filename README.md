@@ -17,7 +17,7 @@
     <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Learning"> ДЗ 0 </a></td>
   <td> YLAB-Learning </td>
   <th> Вводное занятие </th>
-  <td> ... </td>
+  <td> Основные термины и определения </td>
   <td> ... </td>
 </tr>
 
