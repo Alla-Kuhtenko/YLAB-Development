@@ -16,7 +16,7 @@
 <tr>
     <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Learning"> ДЗ 1 </a></td>
   <td> YLAB-Learning </td>
-  <th> Процесс разработки ИС и ПО </th>
+  <th> Вводное занятие </th>
   <td> ... </td>
   <td> ... </td>
 </tr>
@@ -24,7 +24,7 @@
 <tr>
     <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Learning"> ДЗ 2 </a></td>
   <td> YLAB-Learning </td>
-  <th> Основы бизнес-анализа </th>
+  <th> Процесс разработки ИС и ПО </th>
   <td> ... </td>
   <td> ... </td>
 </tr>
@@ -32,7 +32,7 @@
 <tr>
     <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Learning"> ДЗ 3 </a></td>
   <td> YLAB-Learning </td>
-  <th> Основы системного анализа </th>
+  <th> Основы бизнес-анализа </th>
   <td> ... </td>
   <td> ... </td>
 </tr>
@@ -40,7 +40,7 @@
 <tr>
     <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Learning"> ДЗ 4 </a></td>
   <td> YLAB-Learning </td>
-  <th> Методы сбора требований </th>
+  <th> Основы системного анализа </th>
   <td> ... </td>
   <td> ... </td>
 </tr>
@@ -48,7 +48,7 @@
 <tr>
     <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Learning"> ДЗ 5 </a></td>
   <td> YLAB-Learning </td>
-  <th> Сравнение нотаций и языков моделирования </th>
+  <th> Методы сбора требований </th>
   <td> ... </td>
   <td> ... </td>
 </tr>
@@ -56,13 +56,21 @@
 <tr>
     <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Learning"> ДЗ 6 </a></td>
   <td> YLAB-Learning </td>
-  <th> Основы хранения данных </th>
+  <th> Сравнение нотаций и языков моделирования </th>
   <td> ... </td>
   <td> ... </td>
 </tr>
 
 <tr>
     <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Learning"> ДЗ 7 </a></td>
+  <td> YLAB-Learning </td>
+  <th> Основы хранения данных </th>
+  <td> ... </td>
+  <td> ... </td>
+</tr>
+
+<tr>
+    <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Learning"> ДЗ 8 </a></td>
   <td> YLAB-Learning </td>
   <th> Основы проектирования ИС и API </th>
   <td> ... </td>
